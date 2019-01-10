@@ -1,0 +1,21 @@
+h3 {
+  font-weight: bold;
+  color: green;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#word-option {
+  font-style: italic;
+
+}
+
+p:last-child {
+  font-weight: bold;
+  
+}
